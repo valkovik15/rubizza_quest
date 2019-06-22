@@ -1,0 +1,21 @@
+name: "Valentine Kopotchel"
+
+contacts:
+  telegram: "@valkovik"
+  phone: +375291241353
+  email: "kopotchel@outlook.com"
+
+other:
+  github: "valkovik15"
+
+education:
+  - title: "Informatics"
+    when: "2017-2021(?)"
+    institution: "BSU"
+    faculty: "FAMCS"
+
+experience:
+  - title: "iTransition(Node.js, Angular)"
+    when: "summer 2018"
+  - title: "Rubizza(winter 2018)"
+    when: "I think, you can guess"
