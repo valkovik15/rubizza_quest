@@ -1,21 +1,26 @@
-name: "Valentine Kopotchel"
-
-contacts:
+age: 19
+contacts: 
+  email: kopotchel@outlook.com
   telegram: "@valkovik"
-  phone: +375291241353
-  email: "kopotchel@outlook.com"
-
-other:
-  github: "valkovik15"
-
-education:
-  - title: "Informatics"
-    when: "2017-2021(?)"
-    institution: "BSU"
-    faculty: "FAMCS"
-
-experience:
-  - title: "iTransition(Node.js, Angular)"
+education: 
+  - 
+    faculty: FAMCS
+    institution: BSU
+    title: Informatics
+    when: 2017-2021(?)
+english: "quite good I would say, maybe even C1/2"
+experience: 
+  - 
+    title: "iTransition(Node.js, Angular)"
     when: "summer 2018"
-  - title: "Rubizza(winter 2018)"
+  - 
+    title: "Rubizza(winter 2018)"
     when: "I think, you can guess"
+full_name: "Valentine Kopotchel"
+have_a_job: Nope
+hours_per_day: 5
+laptop: "Acer Swift 3, Ubuntu 19.04"
+other: 
+  github: valkovik15
+phone_number: "+375291241353"
+
