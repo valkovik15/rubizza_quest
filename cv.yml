@@ -5,17 +5,25 @@ contacts:
   email: "kopotchel@outlook.com"
 
 goal: "I was too excited after Rubizza winter graduation party. Now I need the job related with Ruby."
+
 education:
   - title: "Informatics"
     when: "2017-2021(?)"
     institution: "BSU"
     faculty: "FAMCS"
+
 have_a_job: "Nope",
+
 laptop: "Acer Swift 3, Ubuntu 19.04",
+
 english: "quite good I would say, maybe even C1/2"
+
 phone_number: "+375291241353"
+
 hours_per_day: 5
+
 age: 19
+
 experience:
   - title: "iTransition(Node.js, Angular)"
     when: "summer 2018"
