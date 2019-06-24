@@ -1,3 +1,4 @@
+--- 
 age: 19
 contacts: 
   email: kopotchel@outlook.com
@@ -9,8 +10,6 @@ education:
     title: Informatics
     when: 2017-2021(?)
 english: "quite good I would say, maybe even C1/2"
-goal: "I was too excited after Rubizza winter graduation party. Now I need the job related with Ruby."
-programming_languages: "Python(3) Ruby, Java, JavaScript(Node.js), C++, R(a bit)"
 experience: 
   - 
     title: "iTransition(Node.js, Angular)"
@@ -19,10 +18,12 @@ experience:
     title: "Rubizza(winter 2018)"
     when: "I think, you can guess"
 full_name: "Valentine Kopotchel"
+goal: "I was too excited after Rubizza winter graduation party. Now I need the job related with Ruby."
 have_a_job: Nope
 hours_per_day: 5
 laptop: "yes, Acer Swift 3, Ubuntu 19.04"
 other: 
   github: valkovik15
 phone_number: "+375291241353"
+programming_languages: "Python(3) Ruby, Java, JavaScript(Node.js), C++, R(a bit)"
 
